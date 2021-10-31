@@ -16,7 +16,7 @@ num2 = float(input("second num:"))
 if choice == "1":
     print(num1, "+", num2, "=", add(num1, num2))
 
-elif choice == "2":
+elif choice == "2":https://github.com/Bahngeunsu/oss_lab1/blob/main/src/source.py
     print(num1, "-", num2, "=", subtract(num1, num2))
 
 else:
