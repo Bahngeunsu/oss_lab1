@@ -2,7 +2,7 @@
 ## To-do-list와 Done-list를 더하여 동기부여를 강화한 업무관리 앱
 
 <hr/>
-![image](https://user-images.githubusercontent.com/81791878/139584301-082e1d0f-0711-48d3-bd6d-37ba968b5e75.png)
+https://github.com/Bahngeunsu/oss_lab1/issues/1#issue-1040464221
 <hr/>
 
 * 본 프로젝트의 목표는 to-do-list의 단점을 보완하여 성취감과 동기부여를 강화한 업무관리 앱을 개발하는 것이다.
